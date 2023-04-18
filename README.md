@@ -1,1 +1,2 @@
-# proj261
+# CMPS 261 MLProject
+
