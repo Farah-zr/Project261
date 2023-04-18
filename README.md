@@ -20,3 +20,7 @@
 1. These files were created and run using Google Colab.
 2. Please make sure you insert the right path for importing the data.
 3. Refer to the report for the results.
+
+<hr>
+
+**Done by:** Farah Zaatar, Ghiya Khatoun & Malak Slim
