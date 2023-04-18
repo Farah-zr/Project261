@@ -15,6 +15,10 @@
 `Models_with_four_hidden_layers` file includes ***six*** Neural Networks Models with 4 hidden layers each.
 
  For more information on the models refer to the report please.
+ 
+ ### Preprocessing:
+ 
+ `preprocessing_module` file includes a function that is used in the previous files to clean the data from non-numeric entries.
 
 ***Notes:*** 
 1. These files were created and run using Google Colab.
